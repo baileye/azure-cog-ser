@@ -18,7 +18,10 @@ In this walkthrough we will set up Azure Search over a collection of images. We 
    - Entity analysis
    - Logo detection
  - Azure functions code
+   - Parameters for storage access and container, Azure search API endpoints, Cognitive services API endpoints
+   - Triggered from storage
+   - Query Azure Search API
+   - Update Azure search index based on filename
  - Azure storage set up
  - Azure search steps
    - API calls for testing
- - 
