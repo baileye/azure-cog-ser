@@ -11,9 +11,17 @@ Make sure you have the following set up before you start this walkthrough:
 In this walkthrough we will set up Azure Search over a collection of images. We will add metadata to the search index for each image by utilising Azure Cognitive Services.  
 
 # TODO
- - Image dataset
-   - classifier model
+ - Image dataset - chicago art institute
+   - Azure vision service
+   - classifier model, etching versus paing
    - object detection
+   - OCR
+   - Entity analysis (from text)
+   - Logo detection (from images)
+ - Cog Ser setup steps
+ - Cog ser custom models
+   - Classifier
+   - Object detection
    - OCR
    - Entity analysis
    - Logo detection
