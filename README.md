@@ -3,8 +3,8 @@ Azure Congitive Services workshop - follow the steps and set up a smart search o
 
 # Requirements
 Make sure you have the following set up before you start this walkthrough:
- - An Azure account
- - Access to Azure Cognitive Services
+ - An [Azure account](http://portal.azure.com/)
+ - Access to [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/)
  - Internet access on your laptop
  - Access to this repo
 
